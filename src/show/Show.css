@@ -1,0 +1,40 @@
+.card-img-top{
+    width: 15%;
+    height: 50%;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.card{
+    border: 3px solid black;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 14px;
+    margin-bottom: -30px;
+}
+.showimg{
+    width: 38%;
+    height: 62%;
+    margin-left: 32%;
+    margin-top: 5%;
+}
+#c1{
+    margin-top: 5%;
+  border: none;
+}
+
+.navbar{
+    border-bottom: 6px solid yellowgreen;
+    background-color: rgb(0, 0, 0);
+    margin-top: 10px;
+}
+.nav-link{
+    color: blanchedalmond;
+    font-weight: bold;
+    margin-left: 240%;
+}
+.nav-link:hover{
+    color: tomato;
+}
+.navbar-brand {
+    color: yellow;
+}
